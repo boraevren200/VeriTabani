@@ -1,2 +1,2 @@
-# VeriTabani
+# VeriYapilari
 VeriTabaniDersiOdevler
