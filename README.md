@@ -1,2 +1,2 @@
 # VeriTabani
-VeriTabaniDersiÖdevleri
+VeriTabaniDersiOdevler
