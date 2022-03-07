@@ -1,0 +1,2 @@
+# VeriTabani
+VeriTabaniDersiÖdevleri
